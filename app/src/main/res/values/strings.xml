@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Omega Music Quiz</string>
+    <string name="_1_this_is_the_f_note">1. This is the F note.</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="_2_is_this_equality_right">2. Is this equality right?</string>
+    <string name="_3_which_is_the_duration_of_the_rest">3. Which is the duration of the rest?</string>
+    <string name="_4_which_value_is_missing">4.Which value is missing?</string>
+    <string name="_5_which_instruments_use_the_f_clef">5. Which instruments use the F clef?</string>
+    <string name="violin">Violin</string>
+    <string name="mandolin">Mandolin</string>
+    <string name="double_bass">Double Bass</string>
+    <string name="cello">Cello</string>
+    <string name="submit_your_answers">Submit your answers</string>
+    <string name="_0">0</string>
+    <string name="name">Name</string>
+    <string name="PointsMessage" />
+
+
+</resources>
